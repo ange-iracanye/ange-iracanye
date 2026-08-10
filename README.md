@@ -1,4 +1,4 @@
-#  Hi, I'm Nextgen
+#  Hi, I'm Ange
 
 ### AI & Software Engineering Student | Building Nova AI
 
