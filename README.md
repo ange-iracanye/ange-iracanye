@@ -12,9 +12,9 @@ My main AI tutoring project. Nova combines a React/Vite frontend with a FastAPI 
 
 The repository includes automated tests, GitHub Actions checks, deployment configuration, and a release checklist. Live infrastructure, account isolation, provider quotas, and legal readiness are tracked separately from code-build status.
 
-### [ORBIT](https://github.com/ange-iracanye/ORBIT)
+### Other experiments
 
-A private MVP exploring enterprise AI-agent workflows, permission boundaries, human approvals, audit trails, spend controls, and invoice processing. It includes a React/Vite console, FastAPI backend, Docker setup, tests, and CI. It is not ready for sensitive production data.
+I also explore software automation and governed AI-agent workflows privately. Those experiments are kept separate from the public portfolio until they are ready to be shared.
 
 ### [Nova prototype documentation](https://github.com/ange-iracanye/nova-ai)
 
