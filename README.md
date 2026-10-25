@@ -1,218 +1,46 @@
 # Hi, I'm Ange 👋
 
-### Terminale Student | Aspiring AI Engineer | Building Nova AI
+**Terminale student · Aspiring AI engineer · Independent software builder**
 
-I'm a student interested in **Artificial Intelligence, Software Engineering, Mathematics, and Computer Science**.
+I'm learning computer science, mathematics, and AI by building and improving real projects. My main focus is engineering useful systems, understanding how they work, and documenting their limits honestly.
 
-I'm currently in **Terminale**, building my foundations in mathematics and computer science while developing real software projects independently.
+## Featured projects
 
-My main project is **Nova**, an AI tutoring system designed around personalized learning, student memory, adaptive tutoring, and knowledge retrieval.
+### [Nova AI](https://github.com/ange-iracanye/Nova)
 
----
+My main AI tutoring project. Nova combines a React/Vite frontend with a FastAPI backend and is being developed around personalized learning, student context, memory, knowledge retrieval, and study tools.
 
-##  Featured Project
+The repository includes automated tests, GitHub Actions checks, deployment configuration, and a release checklist. Live infrastructure, account isolation, provider quotas, and legal readiness are tracked separately from code-build status.
 
-### Nova AI
+### [ORBIT](https://github.com/ange-iracanye/ORBIT)
 
-**Nova** is my main long-term software and AI project.
+A private MVP exploring enterprise AI-agent workflows, permission boundaries, human approvals, audit trails, spend controls, and invoice processing. It includes a React/Vite console, FastAPI backend, Docker setup, tests, and CI. It is not ready for sensitive production data.
 
-It is an AI tutoring system built around the idea that an AI should do more than simply answer a student's question.
+### [Nova prototype documentation](https://github.com/ange-iracanye/nova-ai)
 
-Nova is being developed to understand the student's context, remember relevant learning information, retrieve useful knowledge, and adapt the way it teaches.
+An earlier, separate repository with exploratory Nova architecture, memory, and roadmap documentation. The canonical, actively developed application is the [Nova repository](https://github.com/ange-iracanye/Nova).
 
-### Current systems include
+## What I'm learning
 
-* 🧠 Student memory and memory extraction
-* 👤 Student profiles
-* 📚 Knowledge retrieval
-* 🔎 Embedding-based search
-* 🎓 Adaptive tutoring architecture
-* 💬 Conversation management
-* 🤖 Local LLM inference
-* 🧩 Modular Tutor Engine
-* 📝 Prompt construction
-* 🧮 Tool and calculator support
-* 🎯 Intent detection
-* 🧪 Quiz and learning systems
-* 🌐 Web interface
+- **Programming:** Python, JavaScript, React, APIs, Git, and GitHub
+- **AI engineering:** language models, embeddings, retrieval, tutoring systems, and model integration
+- **Computer science:** algorithms, data structures, software architecture, testing, and security
+- **Mathematics:** algebra, calculus, probability, statistics, and foundations for computer science
 
-**Repository:** [Nova AI](https://github.com/0000Michael0000/nova-ai)
-
----
-
-##  What I'm Currently Learning
-
-### Computer Science
-
-* Algorithms
-* Data structures
-* Object-oriented programming
-* Software architecture
-* Computational thinking
-* Git and GitHub
-
-### Artificial Intelligence
-
-* Machine learning fundamentals
-* Natural language processing
-* Large language models
-* Retrieval systems
-* Embeddings
-* Local AI models
-* AI system architecture
-* Adaptive tutoring systems
-
-### Programming
-
-* Python
-* JavaScript
-* React
-* Flask
-* REST APIs
-
-### Mathematics
-
-* Algebra
-* Functions
-* Calculus
-* Probability
-* Statistics
-* Mathematics for computer science
-
----
-
-##  Current Focus
+## How I work
 
 ```text
-Terminale
-   ↓
-Mathematics & Physics
-   ↓
-Computer Science Fundamentals
-   ↓
-Python & Algorithms
-   ↓
-Artificial Intelligence
-   ↓
-Nova AI
-   ↓
-University
-   ↓
-AI / Computer Science
-   ↓
-AI Engineering
+Learn → Build → Test → Understand failures → Improve → Document
 ```
 
-I'm currently balancing school with independent software and AI development.
+I prefer going deeper on a few substantial projects instead of creating many small projects without a clear purpose. Nova is my main long-term project and a way to strengthen my engineering skills while continuing my studies.
 
-My goal is to enter university with a strong foundation in **mathematics, computer science, programming, and artificial intelligence**, while continuing to build increasingly advanced projects.
+## Long-term goal
 
----
+My goal is to study computer science and work in AI engineering, building intelligent systems that are useful, reliable, and thoughtfully designed.
 
-##  Technologies
+## Follow my work
 
-### Currently using
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge\&logo=flask\&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
-
-### Exploring
-
-* Machine Learning
-* Natural Language Processing
-* Large Language Models
-* Retrieval systems
-* AI system architecture
-* Educational AI
-* Algorithms and data structures
-
----
-
-##  Projects
-
-###  Nova AI
-
-Adaptive AI tutoring system focused on personalized learning, memory, retrieval, and tutoring.
-
-**Status:** Active development
-
-[View Nova →](https://github.com/0000Michael0000/nova-ai)
-
----
-
-### 🔬 Future Projects
-
-I currently prefer going deep on a small number of meaningful projects rather than creating many small applications.
-
-New projects will be added when they explore a genuinely different technical problem or help me develop a new area of engineering.
-
----
-
-##  Long-Term Goal
-
-My long-term goal is to become an **AI engineer** and work on intelligent systems combining:
-
-* Mathematics
-* Computer science
-* Software engineering
-* Machine learning
-* Artificial intelligence
-
-I'm particularly interested in understanding how AI systems work internally and how complete intelligent applications can be designed and engineered.
-
----
-
-##  How I Learn
-
-I prefer learning by building.
-
-```text
-Learn
-  ↓
-Build
-  ↓
-Break things
-  ↓
-Understand why
-  ↓
-Fix them
-  ↓
-Test
-  ↓
-Improve
-  ↓
-Build something better
-```
-
-Nova is the biggest example of this approach.
-
-Rather than only following tutorials, I try to understand the systems I build and gradually make them more robust.
-
----
-
-##  Currently
-
-* 👨‍🎓 Preparing for Terminale
-* 📐 Strengthening mathematics
-* 🐍 Improving Python
-* 🧠 Learning algorithms and data structures
-* 🤖 Developing Nova AI
-* 🔬 Exploring machine learning and AI
-* 💻 Building my software engineering skills
-* 🌱 Preparing for future university studies
-
----
-
-##  Contact
-
-The best way to follow my work is through GitHub and the Nova repository.
-
-More projects and technical documentation will be added as I continue developing.
-
----
-
-⭐ Thanks for visiting my profile.
+- [GitHub profile](https://github.com/ange-iracanye)
+- [Nova AI](https://github.com/ange-iracanye/Nova)
+- [ORBIT](https://github.com/ange-iracanye/ORBIT)
